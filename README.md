@@ -1,4 +1,4 @@
-# milucasestudy
+# casestudy
 
 "A new Flutter project."
 

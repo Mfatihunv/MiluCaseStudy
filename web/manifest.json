@@ -1,6 +1,6 @@
 {
-    "name": "milucasestudy",
-    "short_name": "milucasestudy",
+    "name": "casestudy",
+    "short_name": "casestudy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
